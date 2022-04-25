@@ -1,0 +1,65 @@
+%PDF-1.7
+
+1 0 obj
+<<
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+/Kids [3 0 R]
+/Type /Pages
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Parent 2 0 R
+/Resources 
+<<
+/Font 
+<<
+/F1 4 0 R
+>>
+>>
+/MediaBox [0 0 200 50]
+/Type /Page
+/Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Type /Font
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+5 0 obj
+<< /Length 71 >>
+stream
+bytearray(b'B\x14\n\xe00 20 TD\n/F1 20 Tf\n(Reduced test-case) Tj\nET')
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f
+0000000010 00000 n
+0000000060 00000 n
+0000000118 00000 n
+0000000246 00000 n
+0000000346 00000 n
+trailer
+<<
+ /Size 6
+ /Root 1 0 R
+>>
+startxref
+468
+%%EOF

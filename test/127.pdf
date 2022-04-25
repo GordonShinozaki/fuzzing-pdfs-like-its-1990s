@@ -1,0 +1,107 @@
+%PDF-1.7
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R	
+>>
+endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]		
+	/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+	/Type /Page 
+	/Parent 2 0 R				
+	/MediaBox [0 0 720 720]		
+	/Contents [4 0 R]	
+	/Resources 5 0 R		
+	
+>>
+endobj
+
+4 0 obj
+<< /Length 2046 >>
+stream
+bytearray(b'   \xe7T\r\n   /F1 2m Tf 180 630 TD (\x8eesson10-Graphic4.6 Pattern-homework)Tj\r\n   /F1 18 Tf -60 -10\xf1 TD (ColorPattern)Tj\r\n             280  0 TD (UnColorPattern)Tj\r\n   ET\r\n   q\r\n   1 0 0 1 100 b00 cm\r\n\xab  0.0 G\r\n   0.5 0.5 0.5\\rg\xb6\n   25 175 175 -150 re f\r\n   /Pattern cs\r\n   /P1 scn\r\n   99.92 49.92 m \r\n   99.92 77.52 77.52 99.92 49.92 99.92 c\r\n   22.)2 99.92 -0.08 77.52 -0.08 49.\xaa2 c\r\n   -0.08 22..2 22.32 -0.08 49.92 -0.08 c\r\n   77.52\xa1-0.08 99.92 22.32 99.92  9.92 c\r\n   B\r\n   224.96 49.92 m\xdf\n   224.\xf56 77.52 202.56 99.92.174.96 99.92 c\r\n   147.36 99.92 124.96 77.52 124.96 49.92 c\r\n   124.96 22.32 147.36 -0\xfe08 174.M6 -0.08 c\r\n   202.5\x13 -0.0\x0e 224.96 22.32 224.96 49.92 c\r\n Q B\r\n   87.56 201.70 m\r\n   63.66 187.9G 55.46 157.32 69.26 1\xae3.40\xd6c \r\n   83.06 109.50 113.66 101.30 137.56 115.10 c\r\n   161.46 128.90 169.66 159.50 155.86 183.40 c\r\n   142.06 207.30 111.46 215.50 87.56 201.70 c\r\n   B\r\n   50 50 \x8c\r\n   175 50 l\r\n   11\xef.5 158.253 l\r\n   b\r\n   Q\r\n   q\r\n   1 0 0 1 400 300 cm\r\xa7\r\n   0n0 G\r\n   1.0 1.0 0.0 rg\r\n   25 175 175 -v50\x92re \r\n \x05 f\r\n   /Cs12 cs\r\n#  0.7 0.10 0.30 /P2 sc\xa1\r\n   99.92 49.92 m\r\n   99.92 77.52 77.52 99.92 49.92 99.92 c\r\n   22.32 99.92 -0.08 77.\xed2 -0.08 49.92 c\r\n   -0.08 22.32 22.32 -0\xa208 49.92 -0|08 c\r\n\xa7  77.52 -0.08 99.92 2F.32 99.92 49.92 c\r\n   B\r\n   0.2 0.5 0.5 /P2 scn\r\n   \r\n   224.96 49.92 m\r\n   224.96 77.52 202.56 99.92 174.96 99.92 c\r\n   14\xc2|36 99.92 124.9` 77.52 124.96 49.92 c\r\n   124.96 22.32 147.36 -0.08 174.9\xf6 -0.08 c\r\n   202.56 -0.08 224.96 22.32 224.96 49.92 c\r\n   B\r\n   0.3 0.7 0.0 \xe7P2 scn\r\n   87.56 201.70 m\r\n   63.66 187.90 55.46 157.32 69.26 133.40 c \r\n7  83.06 109.50 1@3.66 101.30 137.56 115.10 c\r\n   161.46 128.90 169.66 159.50 155.86 183.40 c\r\n   142.06 207.30 111.46 215.50 87.56"201.70 c\r\n   B\r\n   0.8 0.0 1.0 /P2 scn\r\n   50 50 m\r\n   175 50 l\r\n=  112.5 158.253 l\r\n   b\r\n   Q')
+endstream
+endobj
+
+5 0 obj
+<<  
+   /ColorSpace <</Cs12 10 0 R>>
+   /Pattern <</P1 6 0 R
+               
+               /P2 11 0 R>>
+>>
+endobj
+
+6 0 obj
+<< /Length 387 >>
+stream
+bytearray(b'   BT\r\n      \r\n      /F1 1 Tf\r\n      64 0 0 64 7.1771 2.4414 Tm\r\n      0 Tc\r\n      0\xcdTw\r\n   ;  1.0 0.0 0.0 rg\r\n   :  (\\001) Tj\r\n      0.7478 -0.007 TD\r\n      0.0 1.0 0.0 rg \r\n      (\\002) Tj\r\n    & -0.7323 ,.7813 TD\r\n      0\x010 0.0 1.0 rg\r\n      (\\003) Tj\r\n    \x04 0.6913 0.007 TD\r\n      0.0 0\x150 0.0 rg\r\n     N(\\004) Tj\r\n   ET')
+endstream
+endobj
+
+7 0 obj
+<<
+   /Font <</F1 8 0 R>>
+>>
+endobj
+
+8 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /Encoding 9 0 R
+  /BaseFont /ZapfDingbats
+
+>>
+endobj
+
+9 0 obj
+<< 
+  /Type /Encoding
+  /Differences [1 /a109 /a110 /a111 /a112]
+>>
+endobj
+
+10 0 obj
+[/Pattern /DeviceRGB]
+endobj
+
+11 0 obj
+<< /Length 290 >>
+stream
+bytearray(b'   BT\r\n      \r\n      /F1 1 Tf\r\n      64 0 0 64 7.1771 2.4414 Tm\r\n      0 Tc\r\n      0 Tw\r\n "    (\\001) Tj\r\n     \xdc0.7478 \xd90.007 TD\r\n\x0e     (\\002) Tj\r\n      -0.7323 0.7813 TD\r\n   {  (\\H03) Tj\r\n 9    0.6913 0.007 TD\r\n      (\\\xb704) Tj\r\n   ET')
+endstream
+endobj
+
+xref
+0 12
+0000000000 65535 f
+0000000010 00000 n
+0000000066 00000 n
+0000000133 00000 n
+0000000264 00000 n
+0000002363 00000 n
+0000002492 00000 n
+0000002931 00000 n
+0000002978 00000 n
+0000003083 00000 n
+0000003170 00000 n
+0000003209 00000 n
+trailer
+<<
+ /Size 12
+ /Root 1 0 R
+>>
+startxref
+3552
+%%EOF

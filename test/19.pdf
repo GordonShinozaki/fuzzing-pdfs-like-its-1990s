@@ -1,0 +1,66 @@
+%PDF-1.7
+
+1 0 obj
+<<
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+/Kids [3 0 R]
+/Count 1
+/Type /Pages
+>>
+endobj
+
+3 0 obj
+<<
+/Parent 2 0 R
+/MediaBox [0 0 200 50]
+/Resources 
+<<
+/Font 
+<<
+/F1 4 0 R
+>>
+>>
+/Contents 5 0 R
+/Type /Page
+>>
+endobj
+
+4 0 obj
+<<
+/BaseFont /Times-Roman
+/Subtype /Type1
+/ToUnicode /Identity-H
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+
+5 0 obj
+<< /Length 57 >>
+stream
+bytearray(b'BT\n10 20 TD\n/F1 \x910 Tf\n(ABCdef) Tj\nET')
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f
+0000000010 00000 n
+0000000060 00000 n
+0000000118 00000 n
+0000000246 00000 n
+0000000369 00000 n
+trailer
+<<
+ /Size 6
+ /Root 1 0 R
+>>
+startxref
+477
+%%EOF

@@ -1,0 +1,333 @@
+%PDF-1.7
+
+1 0 obj
+<<
+    /Type /Catalog
+    /PageMode /FullScreen
+    /Outlines 6 0 R
+    /Pages 2 0 R
+    /Names 50 0 R
+    /PageLabels 23 0 R
+    /ViewerPreferences<</NonFullScreenPageMode (UseThumbs)>>
+>>
+endobj
+
+50 0 obj
+<<
+    /Dests <</Names [ (ToTest2) [4 0 R /XYZ 300 300 1] (ToTest3) [5 0 R /XYZ 290 10 0.5] (ToTest1) [3 0 R /XYZ 600 800 1] ]>>
+>>
+endobj
+
+23 0 obj
+<<
+    /Nums [0 <</S /D /P(test )>> 3 <</S /A >> 4<</S /R/St  >> 5<</S /r/St  >> ]
+    /Limits [0 5]
+>>
+endobj
+
+2 0 obj
+<<
+    /Type /Pages
+    /Kids [3 0 R 4 0 R 5 0 R]
+    /Count 3
+>>
+endobj
+
+3 0 obj
+<<
+    /Type /Page
+    /Parent 2 0 R
+    /MediaBox [0 10 600 800]
+    /Annots [24 0 R 25 0 R]
+    /Contents 16 0 R
+    /Resources <<
+                  /Font <</F1 18 0 R>>
+               >>
+>>
+endobj
+
+24 0 obj
+<<
+    /Subtype /Link
+    /Border [0 0 0]
+    /Dest (ToTest2)
+    /A << /Type /Action
+		/S /GoTo
+		/D [5 0 R /FitR ¨C4 399 199 533]
+		>>
+    /Rect [10 690 150 720] 
+    
+>>
+endobj
+
+25 0 obj
+<<
+    /Subtype /Link
+    /Border [0 0 0]
+    /Dest (ToTest3)
+    /Rect [10 630 150 650] 
+>>
+endobj
+
+16 0 obj
+<< /Length 297 >>
+stream
+bytearray(b'   BT\r\n L\x94 /F1 72 Tf\r\n    200 200 TD\r\n    0 0 1 RG\r\n    5 Tr\r\n    (Test_1) Tj\r\n   0 800 m\r\n   600 0 e S\r\n   /F1 30 Tf\r\n   0 1 0 RG\r\n    1 Tr\r\n   -190 490 TD\r\n   (GO Test_2) Tj\r\n   0 -50 TD\r\n   5 w\r\n   2 Tr\r\n   1 0 0 RG\r\n   (GO Test_3) Tj\r\n   _T')
+endstream
+endobj
+
+18 0 obj
+<<
+    /Type /Font
+    /Subtype /Type1
+    /Name /F1
+    /BaseFont /Helvetica
+>>
+endobj
+
+4 0 obj
+<<
+    /Type /Page
+    /Parent 2 0 R
+    /MediaBox [10 0 500 700]
+    /Annots [60 0 R]
+    /Contents 19 0 R
+    /Resources << 
+                    /Font <</F2 20 0 R>> 
+               >>
+>>
+endobj
+
+19 0 obj
+<< /Length 275 >>
+stream
+bytearray(b'BT\r\n    1 -0.7 0 1 30 100 \x9em \r\n    /F2 50 Tf\r\n    10 50 TD\r\n    (TEST_2) Tj\r\n   \r\n   \xa4\x88 0.7 0 1 -30 -100 cm\r\n    /F2 25 Tf\r\n    1 0 1 R\x8b\r\n    7 w\r\n    10\xe2 60 TD\r\n  \r\n    (GO\x00Test_1) Tj\r\n    100 100 140 40 re S f\r\nET')
+endstream
+endobj
+
+20 0 obj
+<<
+   	 /Type  /Font
+	/Subtype  /TrueType
+	/Name /F2
+	/BaseFont  /NewYork , Bold
+	/FirstChar  0
+	/LastChar  255
+	/Widths  23 0 R
+	/FontDescriptor  7 0 R
+	/Encoding  /MacRomanEncoding
+>>
+endobj
+
+60 0 obj
+<<
+    /Subtype /Link
+    /Border [0 0 0]
+    /Dest (ToTest1)
+    /Rect [110 110 230 150] 
+>>
+endobj
+
+5 0 obj
+<<
+    /Type /Page
+    /Parent 2 0 R
+    /MediaBox [-10 -10 400 600]
+    /Annots [61 0 R]
+    /Contents 21 0 R
+    /Resources << /Font <</F3 22 0 R>> >>
+>>
+endobj
+
+21 0 obj
+<< /Length 117 >>
+stream
+bytearray(b'BT\r\xea    /F3 30 Tf\r\n    290 10 Tc\x1c\n    (TEST_3) Tj\r\n    -50 90 TD\r\n    (GO Test_2)Tj\r\nET')
+endstream
+endobj
+
+22 0 obj
+<<
+   	 /Type  /Font
+	/Subtype  /Type1
+	/Name /F3
+	/BaseFont  /Courier-Bold
+>>
+endobj
+
+61 0 obj
+<<
+    /Subtype /Link
+    /Border [0 0 0]
+    /Dest (ToTest2)
+    /Rect [240 90 400 130] 
+>>
+
+6 0 obj
+<<
+    /Type /Outlines
+    /First 7 0 R
+    /Last 11 0 R
+    /Count 4 0 R
+>>
+endobj
+
+7 0 obj
+<<
+    /Title (First)
+    /Parent 6 0 R
+    /Next 8 0 R
+    /C [1 0 0]
+    /Dest  [ 3 0 R  /XYZ  600 800 0.5 ] 
+>>
+endobj
+
+8 0 obj
+<<
+    /Title (Second)
+    /Parent 6 0 R
+    /Prev 7 0 R
+    /Next 9 0 R
+    /C [0 1 0]
+ %   /Dest  [ 4 0 R  /XYZ  500 700 null ] 
+/Dest (ToTest2)
+>>
+endobj
+
+9 0 obj
+<<
+    /Title (Third)
+    /Parent 6 0 R
+    /Prev 8 0 R
+    /Next 10 0 R
+    /C [0 0 1]
+    /Dest  [ 5 0 R  /XYZ  400 600 0.8 ] 
+>>
+endobj
+
+10 0 obj
+<<
+    /Title (Fourth)
+    /Parent 6 0 R
+    /Prev 9 0 R
+    /Next 11 0 R
+>>
+endobj
+
+11 0 obj
+<<
+    /Title (Fivth)
+    /Parent 6 0 R
+    /Prev 10 0 R
+    /First 12 0 R
+    /Last 15 0 R
+    /Count 4
+>>
+endobj
+
+12 0 obj
+<<
+    /Title (Fivth_1)
+    /Parent 11 0 R
+    /Next 13 0 R
+>>
+endobj
+
+13 0 obj
+<<
+    /Title (Fivth_2)
+    /Parent 11 0 R
+    /Prev 12 0 R
+    /Next 14 0 R
+>>
+endobj
+
+14 0 obj
+<<
+    /Title (Fivth_3)
+    /Parent 11 0 R
+    /Prev 13 0 R
+    /Next 15 0 R
+>>
+endobj
+
+15 0 obj
+<<
+    /Title (Fivth_4)
+    /Parent 11 0 R
+    /Prev 14 0 R
+>>
+endobj
+
+xref
+0 62
+0000000000 65535 f
+0000000010 00000 n
+0000000499 00000 n
+0000000585 00000 n
+0000001571 00000 n
+0000002443 00000 n
+0000000000 65535 f
+0000003102 00000 n
+0000003239 00000 n
+0000003413 00000 n
+0000003568 00000 n
+0000003667 00000 n
+0000003799 00000 n
+0000003883 00000 n
+0000003985 00000 n
+0000004087 00000 n
+0000001118 00000 n
+0000000000 65535 f
+0000001468 00000 n
+0000001786 00000 n
+0000002114 00000 n
+0000002622 00000 n
+0000002792 00000 n
+0000000375 00000 n
+0000000803 00000 n
+0000001003 00000 n
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000224 00000 n
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000002327 00000 n
+0000002893 00000 n
+trailer
+<<
+ /Size 62
+ /Root 1 0 R
+>>
+startxref
+4171
+%%EOF

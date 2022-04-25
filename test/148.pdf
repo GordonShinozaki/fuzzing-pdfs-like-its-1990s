@@ -1,0 +1,84 @@
+%PDF-1.7
+
+1 0 obj
+<<
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+/Kids [3 0 R]
+/Count 1
+/Type /Pages
+>>
+endobj
+
+3 0 obj
+<<
+/Parent 2 0 R
+/Annots [4 0 R]
+/MediaBox [0 0 200 50]
+/Resources 
+<<
+/Font 
+<<
+/F1 5 0 R
+>>
+>>
+/Contents 6 0 R
+/Type /Page
+>>
+endobj
+
+4 0 obj
+<<
+/Border [0 0 1]
+/Subtype /Link
+/C [1 0 0]
+/A 
+<<
+/F (../../0021/002156/215675E.pdf)
+/D (15)
+/Type /Action
+/S /GoToR
+>>
+/Type /Annot
+/Rect [5 10 190 40]
+>>
+endobj
+
+5 0 obj
+<<
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+
+6 0 obj
+<< /Length 78 >>
+stream
+bytearray(b'BT\n\xd00 20 TD\n/F1 16 Tf\n(Bug 766086 - relative links) Tj\nET')
+endstream
+endobj
+
+xref
+0 7
+0000000000 65535 f
+0000000010 00000 n
+0000000060 00000 n
+0000000118 00000 n
+0000000262 00000 n
+0000000436 00000 n
+0000000536 00000 n
+trailer
+<<
+ /Size 7
+ /Root 1 0 R
+>>
+startxref
+665
+%%EOF

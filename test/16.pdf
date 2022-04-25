@@ -1,0 +1,86 @@
+%PDF-1.7
+
+1 0 obj
+<<
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+/Kids [3 0 R]
+/Count 1
+/Type /Pages
+>>
+endobj
+
+3 0 obj
+<<
+/CropBox [4 0 R 5 0 R 6 0 R 7 0 R]
+/Parent 2 0 R
+/MediaBox [4 0 R 5 0 R 6 0 R 7 0 R]
+/Resources 
+<<
+/Font 
+<<
+/F1 8 0 R
+>>
+>>
+/Contents 9 0 R
+/Type /Page
+>>
+endobj
+
+8 0 obj
+<<
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+
+9 0 obj
+<< /Length 97 >>
+stream
+bytearray(b'BT\n10 20 TD\n/F1 12 Tf\n(MediaBox and Cr\xfcpBox with indirect objects.) \xbbj\nET')
+endstream
+endobj
+
+4 0 obj
+0
+endobj
+
+5 0 obj
+0
+endobj
+
+6 0 obj
+250
+endobj
+
+7 0 obj
+50
+endobj
+
+xref
+0 10
+0000000000 65535 f
+0000000010 00000 n
+0000000060 00000 n
+0000000118 00000 n
+0000000542 00000 n
+0000000560 00000 n
+0000000578 00000 n
+0000000598 00000 n
+0000000294 00000 n
+0000000394 00000 n
+trailer
+<<
+ /Size 10
+ /Root 1 0 R
+>>
+startxref
+617
+%%EOF

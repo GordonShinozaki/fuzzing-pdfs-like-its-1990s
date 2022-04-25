@@ -1,0 +1,79 @@
+%PDF-1.4
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]
+	/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+	/Parent 2 0 R 
+	/Contents 6 0 R 
+	/MediaBox [0 0 612 792 ]
+	/Resources << 
+		/Font <</F1 5 0 R>>
+		/ColorSpace<</CS1 7 0 R >>
+		>>
+	/Type /Page 
+>>
+endobj
+
+4 0 obj
+<<
+	/ColorSpace /DeviceCMYK
+	/Coords [0 0 290 0]
+	/ShadingType 2
+	/Function 5 0 R
+>>
+endobj
+
+5 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<< /Length 99 >>
+stream
+bytearray(b'/CS1 cs\r\n100 127 127 sc \r\nBT /F1 25 Tf 100 680 TD\r\n(Color\x02pace: Lab)Tj\r\nET')
+endstream
+endobj
+
+7 0 obj
+[/Lab <</WhitePoint [0.9505 1.000 1.0890 ]
+/Range [-128 127 -128 127 ]
+>>
+]
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000010 00000 n
+0000000065 00000 n
+0000000130 00000 n
+0000000307 00000 n
+0000000413 00000 n
+0000000491 00000 n
+0000000641 00000 n
+trailer
+<<
+ /Size 8
+ /Root 1 0 R
+>>
+startxref
+736
+%%EOF

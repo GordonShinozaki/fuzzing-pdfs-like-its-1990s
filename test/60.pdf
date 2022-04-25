@@ -1,0 +1,91 @@
+%PDF-1.7
+
+1 0 obj
+<< 
+	/Type /Catalog
+	/Pages  2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [4 0 R]
+	/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+	/Title (Written Manully PDF File)
+	/Author (Alina-Xiaoqing_chen)
+	/Subject (Basic knowledge of manul PDF)
+	/Keywords (root catalog outlines pages)
+	/Creator (Written Manully)
+	/Producer (Written Manully)
+	/CreationDate (D:20120105112853+08'00')
+	/ModDate (D:20120105112853+08'00')
+>>
+endobj
+
+4 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 612 792]
+	/Resources <<
+			/Font <</F1 8 0 R>>
+		   >>
+	/Contents [9 0 R]
+>>
+endobj
+
+8 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Helvetica
+>>
+endobj
+
+9 0 obj
+<< /Length 448 >>
+stream
+bytearray(b'q\r\n0 1 0 RG\r\n10 w\r\n%0 j \r\n%1 J \r\n1.414 M\r\n%[3 1] 1 d\r\n50 300 m\r\n100 500 l\r\n150 300 l S\r\nQ\r\n\r\nq\r\n10\xce1z3456 M\r\n1 0 0 RG\r\n10 w\r\n1 0 0 1 140 0 cm\r\n50 300 m\r\n100 \x1400 l\rl150 300 l S\r\nQ\r\n\r\nq\r\n2.567809 M\r\n0 0 1 RG\r\n10 w\r\n1 0 0 1 280 0 cm\r\n50 300 m\r\n100 500 l\r\n150 300 l S\r\nQ\r\n\r\nq\r\n10.0 M\r\n1 0 1 RG\rx10 w\r\n1 0 0 1 420 0 cm\r\n50 300 m\r\n100 500 l\r\n150 300 l S\r\nQ')
+endstream
+endobj
+
+10 0 obj
+<<
+	/Type /ExtGState
+	/LW 5
+	/LJ 0
+	/LC 1
+	/ML 2
+	/D [[5 2] 2]
+	/CA 0.5
+	/ca 0.5
+>>
+endobj
+
+xref
+0 11
+0000000000 65535 f
+0000000010 00000 n
+0000000067 00000 n
+0000000132 00000 n
+0000000445 00000 n
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000593 00000 n
+0000000671 00000 n
+0000001171 00000 n
+trailer
+<<
+ /Size 11
+ /Root 1 0 R
+>>
+startxref
+1281
+%%EOF

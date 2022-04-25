@@ -84,10 +84,10 @@ class cPDF:
 
 		#bit manupulation of stream data
 		try:
-		    streamdata_=bitman_(streamdata)
+			streamdata_=bitman_(streamdata)
 		except Exception as e:
-		    print(e)
-		    streamdata_=streamdata
+			print(e)
+			streamdata_=streamdata
 
 		self.appendString(("%d %d obj\n<< /Length %d >>\nstream\n") % (index, version, len(streamdata_)))
 		self.appendBinary(streamdata_)
@@ -220,5 +220,5 @@ for i in range(0, len(funcs)):
 	if not poc:
 		print(f"func.func_{func.__name__}(cPDF)")
 	else:
-		with open(f"/Users/ant4g0nist/Downloads/test/{i}.pdf", 'w') as f:
+		with open(f"C:/Users/De Kai/Desktop/Security/Research/fuzzing-pdfs-like-its-1990s/test/{i}.pdf", 'w', encoding="utf-8") as f: #need to fix/change this 
 			f.write(poc)

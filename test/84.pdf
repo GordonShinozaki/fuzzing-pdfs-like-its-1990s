@@ -1,0 +1,114 @@
+%PDF-1.7
+
+1 0 obj
+<<
+ 	/Type /Catalog
+  	/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  	/Type /Pages
+  	/Kids [3 0 R]
+  	/Count 1
+>>
+endobj
+
+3 0 obj
+% Page object
+<<
+  	/Type /Page
+  	/Parent 2 0 R
+ 	/Resources 4 0 R
+  	/Contents 30 0 R
+	/MediaBox [0 0 600 600]
+  	%/CropBox [0 0 400 300]
+>>
+endobj
+
+4 0 obj
+<<
+  /Shading <</Sh2 6 0 R>>
+  /Pattern <</P1 10 0 R>>
+>>
+endobj
+
+6 0 obj
+%See page 305 and page 308
+<<
+  /ShadingType 1		%Function-based shading
+  /ColorSpace /DeviceRGB
+  /Domain [-1.0 1.0 -1.0 1.0]
+  /Function [9 0 R 9 0 R 9 0 R] %ÕâÀïËµÃ÷RGBÈý¸ö·ÖÁ¿µÄÖµÊÇÒ»ÑùµÄ£¬Ò²¾ÍÊÇËµÕâÓ¦¸ÃÊÇÒ»¸ö´Ó°×µ½ºÚÖ®¼äµÄÑÕÉ«
+
+  /Matrix [72 0 0 72 0 0]	%1 inch
+% /BBox [0 0 72 72]
+ /BBox [0 0 100 100] 
+ /Background [0.0 0.5 0.1]
+>>
+endobj
+
+9 0 obj
+<< /Length 77 >>
+stream
+bytearray(b'{\xfa\n360 mul sin  2 div  exch 36\xf6 mul sin  2 div  add\r\n}')
+endstream
+endobj
+
+10 0 obj
+<<
+	/Type /Pattern
+	/PatternType 2
+	/Shading 6 0 R
+>>
+endobj
+
+30 0 obj
+<< /Length 84 >>
+stream
+bytearray(b'\r\n\r\n\r\nq\r\n/Pattern cs\r\n/@1 scn\r\n0 0 300 300 re\r\nf\r\n\x03')
+endstream
+endobj
+
+xref
+0 31
+0000000000 65535 f
+0000000010 00000 n
+0000000068 00000 n
+0000000139 00000 n
+0000000306 00000 n
+0000000000 65535 f
+0000000383 00000 n
+0000000000 65535 f
+0000000000 65535 f
+0000000749 00000 n
+0000000877 00000 n
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000000 65535 f
+0000000952 00000 n
+trailer
+<<
+ /Size 31
+ /Root 1 0 R
+>>
+startxref
+1088
+%%EOF
